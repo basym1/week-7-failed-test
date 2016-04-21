@@ -4,6 +4,6 @@ MEMBER 1 BRETT SYMONS
 
 MEMBER 2 Mohammad Shabanpoor	
 
-MEMBER 3 William Politi is fully sick
+MEMBER 3 William Politi
 
 member 4 Julian Tovenati
